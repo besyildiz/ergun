@@ -16,7 +16,7 @@ namespace mermer_mezar_stok_takip
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SifreDeğistir());
         }
     }
 }
