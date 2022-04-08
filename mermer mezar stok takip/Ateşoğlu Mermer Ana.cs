@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace mermer_mezar_stok_takip
+{
+    public partial class Ateşoğlu_Mermer_Ana : Form
+    {
+        public Ateşoğlu_Mermer_Ana()
+        {
+            InitializeComponent();
+        }
+    }
+}

@@ -1,0 +1,32 @@
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.exe.config
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.exe
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.pdb
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Form1.resources
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.exe
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.pdb
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.SifreDeğistir.resources
+D:\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.exe.config
+D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.exe
+D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.pdb
+D:\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.exe
+D:\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.pdb
+D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csprojResolveAssemblyReference.cache
+D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Form1.resources
+D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Properties.Resources.resources
+D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.SifreDeğistir.resources
+D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.exe
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.pdb
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.exe
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.pdb
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Ateşoğlu_Mermer_Ana.resources
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.SifreDeğistir.resources
+C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csproj.GenerateResource.Cache
+D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Ateşoğlu_Mermer_Ana.resources
