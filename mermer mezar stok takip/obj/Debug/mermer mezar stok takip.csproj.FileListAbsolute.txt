@@ -30,3 +30,14 @@ C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\
 C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.SifreDeğistir.resources
 C:\Users\MİTHAT BOYNER\Desktop\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csproj.GenerateResource.Cache
 D:\mermer mezar stok takip\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Ateşoğlu_Mermer_Ana.resources
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.exe.config
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.exe
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.pdb
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.exe
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\bin\Debug\mermer mezar stok takip.pdb
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csprojResolveAssemblyReference.cache
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Ateşoğlu_Mermer_Ana.resources
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Form1.resources
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.Properties.Resources.resources
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\obj\Debug\mermer_mezar_stok_takip.SifreDeğistir.resources
+C:\Users\ekrem\Downloads\ergun-main\ergun-main\mermer mezar stok takip\obj\Debug\mermer mezar stok takip.csproj.GenerateResource.Cache
